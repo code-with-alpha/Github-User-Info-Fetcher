@@ -11,6 +11,9 @@ The _**GitHub User-Info Fetcher**_ is a simple _command-line tool_ built with **
 ## Usage:
 
 1. Clone the repository to your local machine.
+```bash
+git clone https://github.com/code-with-alpha/Github-User-Info-Fetcher.git
+```
 2. Install dependencies by running npm install.
 
 ```bash
